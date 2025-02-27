@@ -1,0 +1,3 @@
+Nome: Hugo Oliveira
+Idade: 18 anos
+Curso: Desenvolvimento de software
